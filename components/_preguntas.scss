@@ -1,0 +1,12 @@
+main{
+    div{
+        div{
+            div{
+                .pagos-logos{
+                    color: nth($list:$colores , $n:1 );
+                    font-size: nth($list:$font-size , $n:3 );
+                }
+            }
+        }
+    }
+}
